@@ -2,7 +2,7 @@ name: Publish Document
 account: rpubs
 server: rpubs.com
 bundleId:
-        https://api.rpubs.com/api/v1/document/156612/c25a38c5c3a7415dafdfa287f9549db6
+        https://api.rpubs.com/api/v1/document/156755/7b8fbb7a3583483684816a06aac0af1d
 url:
-        http://rpubs.com/publish/claim/156612/372865038d3b465cacd13bf54940c8de
-when: 1456661694.67835
+        http://rpubs.com/publish/claim/156755/9f2b3563a70648868e8d306ef42d8d06
+when: 1456682264.6821
